@@ -175,7 +175,7 @@ print(f"Calidad predicha: {predicted_quality}")
 
 ## Autor
 
-[Tu Nombre]
+Francisco Beltrán
 
 ## Licencia
 
